@@ -1,0 +1,111 @@
+{
+  "activeSubscriptionId": "adx-workspace",
+  "activeTeamId": "adx-workspace",
+  "email": "heena.dua@appirio.com",
+  "hash": {
+    "auth0": {
+      "access_token": "55352b9dd4e5f44234d39b704d7b1b3ab036c97fbb5b4b90e7ac59ee99cd4262cc1423c17ed0beab33ecde5245d2da5c:fabcf54619838f328a08924d11cef2fd",
+      "id": "c7dcbb074b8b5af8aa1df5bf9eba7fd53934d2145f0c8bc4a33d8e58657e82aa910186ce1364f16898fd614fb6a36067623133254b4aab2bf9b5847e11ba2f6e:edd994ae15f0291f19e881107754cb27",
+      "refresh_token": "81ba13bd04c47e4e5aa8ab7f72caf2713bc3e983d6c6183f7900721e5754de38cc61786e8d67a195d8f2cc62996f06784fdfe66e2e7b2ac0717594fb90:941c345bdc0b104fdc9b05aa4a81cc0d",
+      "session_id": "8b4f5c468585d7756748a910ce0ff3d9a27e1872a1558df2e993bf8fa1079d5462b02fdf23bf9f57:e8aff60b566ac28ae3f6e9bbf35e03cc"
+    },
+    "rtnc": "9fbac8f52c34e9a8b93953db87f5404eb21bd551d28d152ee26a137961182936cc615de26508d04939885becec8d8d03d6f425e4453f5194985298301cfc80c62efd75c5051de6bbb7239ce5074506508aabedf89b077d83e2a2fa9973e06a7c2451768dad042b2e253ada934aa2bc3c144badded22bc9b01551d8c8a154e571f602a51417bbb4164640a15c8775116e15d2dd207bd8ef7f2c5e95b5af5e4388f8acb7aa0606257ac5cb15996b8bfccf836f9038bbe0d690b7ea24cadb55c736531d7efb7af366df2dd1903313ec2585f4bbc7b184c74d5ba891b2c7fe8a0c134a1826938bdb10661c7c3abe6680017c3e6c401d62356398212f1a859184802d8af741492646e6ed8ed3cbb47a87864d9c2fa61d5a3064d9ea:62c587e7a77de217d0cb10dd86429db6"
+  },
+  "name": "Heena Dua",
+  "orgs": {
+    "00D500000006lQWEAY": {
+      "alias": "Prod",
+      "loginUrl": "https://appirio.my.salesforce.com",
+      "sfOrgId": "00D500000006lQWEAY",
+      "username": "heena.dua@appirio.com"
+    }
+  },
+  "tools": {
+    "ciCdTools": {
+      "gitlab": {
+        "status": "Active"
+      }
+    },
+    "developmentEnvironmentTools": {
+      "vscode": {
+        "configuration": {
+          "cmcExtension": {
+            "value": true
+          },
+          "detectIndentation": {
+            "value": true
+          },
+          "formatOnSave": {
+            "value": true
+          },
+          "gitAutoFetch": {
+            "value": true
+          },
+          "insertFinalNewline": {
+            "value": true
+          },
+          "insertSpaces": {
+            "value": true
+          },
+          "tabSize": {
+            "value": 2
+          },
+          "trimTrailingWhitespace": {
+            "value": true
+          }
+        },
+        "status": "Active"
+      }
+    },
+    "lintingTestingAnalysisTools": {
+      "eslint": {
+        "status": "Active"
+      },
+      "pmd": {
+        "status": "Active"
+      },
+      "sonarqube": {
+        "status": "Active"
+      }
+    },
+    "otherUtilities": {
+      "sourcetree": {
+        "status": "Active"
+      }
+    },
+    "projectManagementTools": {
+      "cmc": {
+        "status": "Active"
+      }
+    },
+    "versionControlTools": {
+      "git": {
+        "configuration": {
+          "autocrlf___win32": {
+            "value": "true"
+          },
+          "diffAlgorithm": {
+            "value": "patience"
+          },
+          "email": {
+            "value": "heena.dua@appirio.com"
+          },
+          "name": {
+            "value": "Heena Dua"
+          },
+          "pushesCreateUpstreamBranches": {
+            "value": "current"
+          },
+          "pushFollowTags": {
+            "value": true
+          },
+          "safecrlf___win32": {
+            "value": "warn"
+          }
+        },
+        "status": "Active"
+      }
+    }
+  },
+  "userId": "H1BZzkj"
+}

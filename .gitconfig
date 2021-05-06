@@ -1,0 +1,5 @@
+[user]
+	name = Heena
+	email = heena.dua@wipro.com
+[http]
+	sslBackend = schannel

@@ -1,0 +1,12 @@
+{
+  "username": "heena.dua@appirio.com",
+  "orgId": "00D500000006lQWEAY",
+  "accessToken": "6eade01c3d0be3ed62d706c7fa2ff883423a6125bb0ed9fb73e93c245a47620a25d95a8cf674073da39439b43fa072197ae42915c9df5584b5286a2ee4e99f12004c384f4c5dbdd40469e12dd35d290234d49f2a14d71bfc701ea2721ead3bc51265aa2e8f9f525bc1aa202c2e1a99bda5ca0517082d:b55ff0638afb9a8c3c4cbfd81d8d187b",
+  "refreshToken": "95d6cf2c1a520eb3e2a1cd44405425a8017e586384f488a761779b20f561b3dd332935986fe707a909ae87a4af0d2ca0726652867eb79b5226836b46b5a06a0aaf0b58a129534d007ee35b46d0a426c29539155c889938534bfbf3d0cc:63494596d4258a68e8da4bcbff8b4683",
+  "instanceUrl": "https://appirio.my.salesforce.com",
+  "loginUrl": "https://appirio.my.salesforce.com/",
+  "clientId": "PlatformCLI",
+  "isDevHub": true,
+  "instanceApiVersion": "51.0",
+  "instanceApiVersionLastRetrieved": "10/3/2021, 11:43:40 pm"
+}

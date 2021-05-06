@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/c/Users/HE40010561/Desktop/Vishu/salesforce-ciam/project/src/aura/CIAM_OptOut_confirmation'
+let g:netrw_dirhist_1='/c/Users/HE40010561/Desktop/Vishu/salesforce-ciam/project/src/aura/CIAM_DOI_Verification_Landingcmp'

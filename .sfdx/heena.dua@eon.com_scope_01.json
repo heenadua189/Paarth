@@ -1,0 +1,11 @@
+{
+  "username": "heena.dua@eon.com_scope_01",
+  "accessToken": "88ff27a1787a090c1fd7350027e17472e568d25264d8a9589053546e839273128cd4ddbda6ad54b2c6988bef6e9256c3218129ee25f417388fb5610bb11060000f935a8279c8d800de21097c98bc47d2d9cfad767c0fad706608d93f09cdf24b34a9043f696a1452577fde41df6b86b6d4bc513a8309:0bd956959b54e50410964cf390139b0b",
+  "instanceUrl": "https://eciam--Dev2.my.salesforce.com",
+  "orgId": "00D0D0000008bqfUAA",
+  "loginUrl": "https://eciam--dev2.my.salesforce.com/",
+  "refreshToken": "7a1896de8b705e35d5985484c9a729fe6cc9432e4e801c2afae08d435afba2d1faef312b8f0ad88f3444d131f7fcc5d6b9dd8ebfb4342d5901d4d59a7ea4045fa95454804728a9b1a1d525d47db38e51bf1a679760d66483ad79343747:97904fda761db567b234d0f9a6ef5674",
+  "clientId": "PlatformCLI",
+  "instanceApiVersion": "51.0",
+  "instanceApiVersionLastRetrieved": "11/3/2021, 4:28:26 pm"
+}

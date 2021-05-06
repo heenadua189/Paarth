@@ -1,0 +1,4 @@
+{"name":"sfdx","hostname":"APL-D7S1663","pid":20924,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-03-10T11:18:19.584Z","v":0}
+{"name":"sfdx","hostname":"APL-D7S1663","pid":20732,"log":"Login","level":50,"msg":"[\n  'ERROR running auth:web:login: ',\n  'Invalid client credentials. Verify the OAuth client secret and ID. Error authenticating with auth code due to: unable to get local issuer certificate'\n]","time":"2021-03-10T18:03:06.982Z","v":0}
+{"name":"sfdx","hostname":"APL-D7S1663","pid":13692,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-04-28T08:35:26.114Z","v":0}
+{"name":"sfdx","hostname":"APL-D7S1663","pid":44940,"log":"TelemetryReporter","level":40,"msg":"Connection to https://dc.services.visualstudio.com timed out after 1000 ms","time":"2021-05-05T07:43:46.729Z","v":0}
